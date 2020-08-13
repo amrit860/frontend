@@ -1,0 +1,179 @@
+
+
+body{
+    margin:0;
+    padding:0;
+    /* background-image: url('./n.jpg'); */
+    position:relative;
+    width: 100vw;
+    height: 100vh;
+
+
+    background-position: center;
+    /* background-repeat: no-repeat; */
+    /* background-size: cover; */
+    /* background-attachment: fixed; */
+    
+}
+span{
+    color:white;
+}
+
+
+.registerbox{
+    /* position: sticky; */
+    margin-top: 20px;
+    border-radius: 20px;
+    margin-bottom: 80px;
+    width: 450px;
+    height: 631px;
+    padding: 20px 30px;
+    background: rgba(0,0,0,0.6);
+}
+.registerbox h3{
+    margin: 0px;
+    padding:0 0 20px;
+    color: #fff;
+    text-align: center;
+    text-transform: uppercase;
+}
+.registerbox p{
+    margin: 0px;
+    padding: 0;
+    font-weight: bold;
+    color: #000;
+}
+.registerbox input{
+    width: 100px;
+    margin-bottom: 20px;
+}
+.registerbox input[type=text],
+.registerbox input[type=password]{
+    border: none;
+    border-bottom: 1px solid #fff;
+    background: transparent;
+    outline: none;
+    color: #fff;
+    width: 400px;
+}
+
+.wrapper {
+    text-align: center;
+    color: black;
+    background: red;
+    border-radius: 25px;
+    width: 300px;
+    font-size: 15px;
+    cursor: pointer;
+    outline: none;
+    
+
+}
+.registerbox p{
+    font-size: 25px;
+    /* text-decoration: none; */
+    line-height: 30px;
+    color: black;
+    
+} 
+.registerbox input[type="radio"] {
+    width: 30px;
+ color: white;
+
+}
+.registerbox .danger{
+    color: green;
+}
+
+.registerbox input[type=date]{
+    border: none;
+    background-color: teal;
+    width: 170px;
+    border-radius: 25px;
+}
+.registerbox label{
+    color: white;
+}
+
+
+/* body{
+    margin:30;
+    padding :30;
+  
+
+}
+body:before{
+    background-color: saddlebrown;
+}
+
+
+
+.registerbox.b{
+    width: 600px;
+    height:1200px;
+    background-color: rgb(70, 17, 17);
+    top : 50px ;
+    left: 100px;
+    position: center;
+    box-sizing: border-box;
+    border-radius: 50px;
+    margin: 55px;
+ background-color: red;
+    
+}
+.registerbox input[type="checkbox"],input[type="remember_me"]{
+    margin: -239px;
+}
+.registerbox input[type="password"],input[type="password"]{
+    border: none;
+    border-bottom: 1px solid;
+    background: transparent;
+    outline: none;
+    height: 40px;
+    background-color: black;
+    color: white;
+   
+}
+.registerbox input[type="text"],input[type="username"]{
+    border: none;
+    border-bottom: 1px solid;
+    background: transparent;
+    outline: none;
+    height: 40px;
+    color: white;
+   
+}
+.registerbox input[type="date"]{
+    border: none;
+    border-bottom: 1px solid;
+    background: transparent;
+    outline: none;
+    height: 40px;
+    background-color: black;
+    color: white;
+   
+    
+}
+.registerbox input[type="submit"]{
+    width: 500px;
+    height: 200px;
+    text-align: center;
+    padding-right: center;
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+    margin-top:22%;
+    margin-bottom:0%;
+}
+.registerbox p{
+    font-size: 25px;
+     text-decoration: none;
+     line-height: 10px;
+     color: white;
+}
+.wrapper {
+    text-align: center;
+    color: black;
+    background-color: gray;
+    border-radius: 12px;
+} */
